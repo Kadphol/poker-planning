@@ -11,7 +11,7 @@ Poker planning web application for Agile team with multiple rooms and sessions.
 
 ## Installation
 
-You need to install Bun before install this project: https://bun.sh/docs/installation
+You need to install Bun before install this project: <https://bun.sh/docs/installation>
 
 Install Poker planning project with bun
 
